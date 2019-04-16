@@ -1,6 +1,6 @@
 <?php
 
-namespace HTMLtoOpenXML\Scripts;
+namespace htmlofficexml\Scripts;
 
 class ProcessProperties {
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace HTMLtoOpenXML;
+namespace htmlofficexml;
 
 class Parser
 {
