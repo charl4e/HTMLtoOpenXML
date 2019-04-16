@@ -1,24 +1,24 @@
 {
-  "name": "charl4e/htmltoopenxml",
-  "license": "LGPL-3.0",
-  "description": "Convert HTML to OpenOfficeXML",
-  "keywords": [
-    "OOXML", "HTML"
-  ],
-  "type": "library",
-  "authors": [
-      {
-          "name": "Charl Fourie",
-          "email": "charl4e@gmail.com"
-      }
-  ],
-  "require": {
+    "name": "charl4e/htmltoopenxml",
+    "license": "LGPL-3.0",
+    "description": "Convert HTML to OpenOfficeXML",
+    "keywords": [
+        "OOXML", "HTML"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Charl Fourie",
+            "email": "charl4e@gmail.com"
+        }
+    ],
+    "require": {
     "php": "^5.4 || ^7.0 || ^7.1 || ^7.2"
-  },
-  "autoload": {
-      "psr-4": {
-          "HTMLtoOpenXML\\": "src"
-      }
-  }
+    },
+    "autoload": {
+        "psr-4": {
+            "HTMLtoOpenXML\\": "src"
+        }
+    }
 
 }
