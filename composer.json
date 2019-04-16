@@ -1,5 +1,5 @@
 {
-  "name": "rkorebrits/htmltoopenxml",
+  "name": "charl4e/htmltoopenxml",
   "license": "LGPL-3.0",
   "description": "Convert HTML to OpenOfficeXML",
   "keywords": [
@@ -8,8 +8,8 @@
   "type": "library",
   "authors": [
       {
-          "name": "Richard Korebrits",
-          "email": "richard@korebrits.com"
+          "name": "Charl Fourie",
+          "email": "charl4e@gmail.com"
       }
   ],
   "require": {
